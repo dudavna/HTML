@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title> Página 1 </title>
+    </head>
+
+    <body bgcolor='#FFE4E1'>
+         <center>
+         Bom dia! <br><br>
+         </center>
+         </font>
+         <font size = '7' color ='#C71585'>P
+         
+         </font>
+         <font size = '5' color ='#FF1493'>A
+         
+         </font>
+         <font size = '3' color ='#FF69B4'>R
+        
+         </font>
+         <font size = '2' color ='#DB7093'>A
+         
+         </font>
+         <font size = '2' color ='#FFB6C1'>B
+      
+         </font>
+         <font size = '3' color ='#FFC0CB'>E
+          
+         </font>
+         <font size = '5' color ='#F08080'>N
+         
+         </font>
+         <font size = '7' color ='#CD5C5C'>S
+      <br>
+         <img src="./img/foto1.jpg" width='40%'> <br>
+         <font size = '3'>
+
+       <a href="./pagina2comandos.html">CLIQUE AQUI PARA IR ATÉ A PÁGINA 2</a>
+    
+
+       </body>
+
+</html>
